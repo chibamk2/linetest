@@ -1,4 +1,4 @@
-# LIFF Starter tiba3
+# LIFF Starter tiba4
 
 LIFF Starter is a good starter template can help you understand how to integrate LIFF into your own development environment.
 
